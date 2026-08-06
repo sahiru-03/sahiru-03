@@ -29,11 +29,22 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
-## 🐍 Contributions
+## 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiru-03" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 ## 🟩 Contributions
 
