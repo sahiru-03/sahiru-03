@@ -46,7 +46,11 @@
 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=sahiru-03&style=for-the-badge)
 
+![GitHub followers](https://img.shields.io/github/followers/sahiru-03?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/sahiru-03?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=sahiru-03&color=blue)
 
 
