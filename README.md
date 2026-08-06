@@ -32,10 +32,12 @@
 
 ## 🟩 Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=github-compact)
+- 💻 Actively improving my programming skills through projects and problem solving.
+- 🚀 Building web development and IoT-based projects.
+- 📚 Continuously learning new technologies and software engineering practices.
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=github-compact)
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=sahiru-03&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiru-03&layout=compact&theme=tokyonight)
