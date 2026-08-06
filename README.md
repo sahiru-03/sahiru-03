@@ -1,3 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sahiru-03&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/sahiru-03?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/sahiru-03?style=for-the-badge)
+
 <h1 align="center">Hey there! 👋 I'm Sahiru</h1>
 
 <p align="center">
@@ -29,7 +35,7 @@
 ---
 ## 🟩 Contributions
 
-<img src="https://ghchart.rshah.org/0D1117/sahiru-03 />
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sahiru-03&show_icons=true&theme=tokyonight)
