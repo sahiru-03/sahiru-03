@@ -29,8 +29,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
+
 ## 🟩 Contributions
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=github-compact)
 
 ## 📊 GitHub Stats
 
@@ -42,11 +44,6 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=sahiru-03&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/sahiru-03?style=for-the-badge)
-
-![GitHub stars](https://img.shields.io/github/stars/sahiru-03?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=sahiru-03&color=blue)
 
 
