@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey there! 👋 I'm Sahiru</h1>
 
 <p align="center">
@@ -30,7 +28,7 @@
 </p>
 
 ---
-
+<img src="https://ghchart.rshah.org/0D1117/sahiru-03" />
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sahiru-03&show_icons=true&theme=tokyonight)
