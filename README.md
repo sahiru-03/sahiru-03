@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## 🟩 Contributions
 
 - 💻 Actively improving my programming skills through projects and problem solving.
