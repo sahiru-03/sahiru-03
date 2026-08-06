@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:1E3A8A&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:60A5FA&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff"/>
 
 <h1 align="center">Hey there! 👋 I'm Sahiru</h1>
 
