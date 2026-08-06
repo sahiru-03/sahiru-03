@@ -26,3 +26,13 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,java,c,cpp,firebase" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sahiru-03&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiru-03&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=sahiru-03&theme=tokyonight)
