@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:7C3AED&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff"/>
+
 <h1 align="center">Hey there! 👋 I'm Sahiru</h1>
 
 <p align="center">
@@ -48,4 +50,3 @@
 - LinkedIn: https://www.linkedin.com/in/sahiru-sheyan-14745935a/
 - Email: sahirusheyan.info@gmail.com
 
-https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,100:2C5364&text=Welcome%20to%20My%20GitHub&descAlign=60
