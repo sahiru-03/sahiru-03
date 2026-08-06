@@ -29,13 +29,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid" width="100%" />
+
+
 ## 🟩 Contributions
 
 - 💻 Actively improving my programming skills through projects and problem solving.
 - 🚀 Building web development and IoT-based projects.
 - 📚 Continuously learning new technologies and software engineering practices.
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=github-dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 📊 GitHub Stats
