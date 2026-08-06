@@ -41,3 +41,9 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=sahiru-03&color=blue)
+
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sahiru-sheyan-14745935a/
+- Email: sahirusheyan.info@gmail.com
