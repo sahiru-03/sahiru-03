@@ -29,6 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🟩 Contributions
 
 - 💻 Actively improving my programming skills through projects and problem solving.
