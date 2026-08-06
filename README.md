@@ -31,7 +31,7 @@
 ---
 
 ## 🟩 Contributions
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahiru-03&theme=github-dark)
 
 - 💻 Actively improving my programming skills through projects and problem solving.
 - 🚀 Building web development and IoT-based projects.
