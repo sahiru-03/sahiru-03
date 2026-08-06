@@ -29,8 +29,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
-<img src="https://raw.githubusercontent.com/sahiru-03/sahiru-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid" width="100%" />
-
 
 ## 🟩 Contributions
 
