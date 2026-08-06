@@ -36,3 +36,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiru-03&layout=compact&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=sahiru-03&theme=tokyonight)
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=sahiru-03&color=blue)
