@@ -24,8 +24,7 @@
 ## 🛠 Tech Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,java,c,cpp,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,java,python,c,cpp,php,linux" />
 
 ---
 ## 🟩 Contributions
